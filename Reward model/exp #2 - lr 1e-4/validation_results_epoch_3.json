@@ -1,0 +1,132 @@
+[
+    {
+        "article_id": "elife-15477-v3",
+        "metrics": {
+            "rouge": {
+                "rouge1": 0.05216844751728472,
+                "rouge2": 0.018440905280804696,
+                "rougeL": 0.031217263775403306
+            },
+            "bleu": 0.005720206507373009,
+            "ner_simple": {
+                "reference_entities": 24,
+                "summary_entities": 44,
+                "common_entities": 3,
+                "entity_overlap": 1.0
+            },
+            "ner_detailed": {
+                "perfect_matches": 0,
+                "partial_matches": 0,
+                "type_errors": 0,
+                "spurious": 44,
+                "missing": 24,
+                "total_reference_entities": 24,
+                "total_summary_entities": 44
+            }
+        }
+    },
+    {
+        "article_id": "elife-56656-v2",
+        "metrics": {
+            "rouge": {
+                "rouge1": 0.08018292682926831,
+                "rouge2": 0.03964623360780725,
+                "rougeL": 0.05243902439024391
+            },
+            "bleu": 0.013674884638027669,
+            "ner_simple": {
+                "reference_entities": 17,
+                "summary_entities": 28,
+                "common_entities": 2,
+                "entity_overlap": 1.0
+            },
+            "ner_detailed": {
+                "perfect_matches": 2,
+                "partial_matches": 0,
+                "type_errors": 0,
+                "spurious": 26,
+                "missing": 15,
+                "total_reference_entities": 17,
+                "total_summary_entities": 28
+            }
+        }
+    },
+    {
+        "article_id": "elife-04692-v2",
+        "metrics": {
+            "rouge": {
+                "rouge1": 0.12133505439793474,
+                "rouge2": 0.05238885814425383,
+                "rougeL": 0.06859671768393878
+            },
+            "bleu": 0.02033618794390205,
+            "ner_simple": {
+                "reference_entities": 23,
+                "summary_entities": 15,
+                "common_entities": 1,
+                "entity_overlap": 0.5
+            },
+            "ner_detailed": {
+                "perfect_matches": 2,
+                "partial_matches": 2,
+                "type_errors": 0,
+                "spurious": 13,
+                "missing": 21,
+                "total_reference_entities": 23,
+                "total_summary_entities": 15
+            }
+        }
+    },
+    {
+        "article_id": "elife-21394-v2",
+        "metrics": {
+            "rouge": {
+                "rouge1": 0.1076434311343674,
+                "rouge2": 0.047859412974387734,
+                "rougeL": 0.06167071575406467
+            },
+            "bleu": 0.01516122026845185,
+            "ner_simple": {
+                "reference_entities": 20,
+                "summary_entities": 26,
+                "common_entities": 3,
+                "entity_overlap": 1.0
+            },
+            "ner_detailed": {
+                "perfect_matches": 1,
+                "partial_matches": 0,
+                "type_errors": 0,
+                "spurious": 25,
+                "missing": 19,
+                "total_reference_entities": 20,
+                "total_summary_entities": 26
+            }
+        }
+    },
+    {
+        "article_id": "elife-02669-v2",
+        "metrics": {
+            "rouge": {
+                "rouge1": 0.05948737566947207,
+                "rouge2": 0.026784006122058543,
+                "rougeL": 0.03710788064269319
+            },
+            "bleu": 0.008079880268018622,
+            "ner_simple": {
+                "reference_entities": 9,
+                "summary_entities": 9,
+                "common_entities": 1,
+                "entity_overlap": 0.5
+            },
+            "ner_detailed": {
+                "perfect_matches": 0,
+                "partial_matches": 0,
+                "type_errors": 0,
+                "spurious": 9,
+                "missing": 9,
+                "total_reference_entities": 9,
+                "total_summary_entities": 9
+            }
+        }
+    }
+]
