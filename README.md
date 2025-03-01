@@ -154,7 +154,7 @@ This study successfully evaluated **Transformer-based summarization models** for
 ---
 
 ## 6️⃣ References
-📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/Evaluating_scientific_paper_summarization_methods_using_multiple_metrics.pdf).
+📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/Scientific-Paper-Summarization-using-RLHF-and-NER-Analysis/blob/main/Evaluating_scientific_paper_summarization_methods_using_multiple_metrics.pdf).
 
 ---
 
