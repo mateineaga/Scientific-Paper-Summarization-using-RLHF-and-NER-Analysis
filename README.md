@@ -145,16 +145,16 @@ This study successfully evaluated **Transformer-based summarization models** for
 ✅ **Named Entity Recognition analysis** highlights model limitations in domain-specific terminology retention.  
 ✅ **Fine-tuning and RLHF improve summarization quality**, but require **dataset-specific optimization**.
 
-```md
+
 ![Evaluation Metrics](results/evaluation_metrics.png)
 
 ![NER Analysis](results/ner_detailed_metrics.png)
-```
+
 
 ---
 
 ## 6️⃣ References
-📌 For full references, please see the [Evaluating_scientific_paper_summarization_methods_using_multiple_metrics.pdf].
+📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/Evaluating_scientific_paper_summarization_methods_using_multiple_metrics.pdf).
 
 ---
 
